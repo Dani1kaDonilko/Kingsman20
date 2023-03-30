@@ -135,5 +135,14 @@
     <Folder Include="Pages\" />
     <Folder Include="Res\" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\Instagram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\Google.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\Telegram.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
